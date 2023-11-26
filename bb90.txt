@@ -1,0 +1,5 @@
+Python
+pip install pysqlite3
+pip install python-telegram-bot
+pip install xlwt
+pip install openpyxl
